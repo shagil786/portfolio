@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="shagilhmx.github.io/portfolio/" target="_blank">shagilhmx.github.io</a>
+  <a href="/shagilhmx.github.io/portfolio/" target="_blank">shagilhmx.github.io</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="/assets/Images/demo.png" />
@@ -10,7 +10,7 @@
 
 ## Built With
 
-My personal portfolio <a href="shagilhmx.github.io/portfolio/" target="_blank">shagilhmx.github.io</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="/shagilhmx.github.io/portfolio/" target="_blank">shagilhmx.github.io</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
