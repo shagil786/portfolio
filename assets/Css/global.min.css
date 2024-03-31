@@ -2300,11 +2300,7 @@ a {
         flex-direction: column;
         padding: 0px;
         padding: 4rem 2rem;
-    }
-
-    .home-tooling {
-        padding: 0rem;
-        padding: 0rem 0rem 5rem 0rem;
+        gap: 80px;
     }
 
     .tooling-box {
