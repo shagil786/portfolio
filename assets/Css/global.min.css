@@ -2303,6 +2303,10 @@ a {
         gap: 80px;
     }
 
+    .home-block {
+        position: relative;
+    }
+
     .tooling-box {
         width: 80%;
     }
@@ -2349,6 +2353,11 @@ a {
 
     .home-block {
         height: auto;
+    }
+
+    .home-tooling {
+        padding: 0px;
+        padding: 0rem 0rem 5rem 0rem;
     }
 
     .home {
