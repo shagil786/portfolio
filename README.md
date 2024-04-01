@@ -16,6 +16,9 @@ This project was built using these technologies.
 
 - Vanilla Js
 - CSS3
+- Node Js
+- Aws
+- Mongodb
 - VsCode
 
 ## Features
